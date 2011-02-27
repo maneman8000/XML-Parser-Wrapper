@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dictionary SYSTEM "aa.dtd">
+<test>
+<a>あい&cd;</a>
+<p>うえ<a>お<br/>か</a>きく</p>
+</test>

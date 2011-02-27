@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dictionary SYSTEM "aa.dtd">
+<test xml:space="preserve">
+<a>あい  <b>う
+    <br/><c>えa   
+ b </c></b>	&cd;<d xml:space="default"> ab </d> </a>
+</test>
